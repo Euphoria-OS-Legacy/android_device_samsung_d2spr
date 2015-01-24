@@ -15,7 +15,7 @@
     "remote": "github",
     "repository": "ChoznJuan/android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
-    "revision": "ChoznKernel-Test"
+    "revision": "eos"
   },
   {
     "remote": "github",
