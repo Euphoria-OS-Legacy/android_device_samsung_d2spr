@@ -24,12 +24,6 @@
     "revision" "cm-12.0"
   },
   {
-    "remote": "github"
-    "repository": "CyanogenMod/android_device_samsung_d2-common",
-    "target_path": "device/samsung/d2-common"
-    "revision": "cm-12.0"  
-  },
-  {
     "remote": "github",
     "repository": "CyanogenMod/android_hardware_samsung",
     "target_path": "hardware/samsung",
