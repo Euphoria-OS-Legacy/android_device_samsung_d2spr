@@ -10,6 +10,7 @@
     "repository": "Euphoria-OS-Legacy/android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common",
     "revision": "lollipop"
+  },
   {
     "remote": "github",
     "repository": "CyanogenMod/android_device_qcom_common",
