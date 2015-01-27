@@ -5,6 +5,12 @@
     "target_path": "device/samsung/qcom-common",
     "revision": "cm-12.0"
   },
+  { 
+    "remote": "github",
+    "repository": "Euphoria-OS-Legacy/android_device_samsung_d2-common",
+    "target_path": "device/samsung/d2-common",
+    "revision": "lollipop"
+  },
   {
     "remote": "github",
     "repository": "CyanogenMod/android_device_qcom_common",
@@ -13,9 +19,9 @@
   },
   {
     "remote": "github",
-    "repository": "ChoznJuan/android_kernel_samsung_d2",
+    "repository": "Euphoria-OS-Legacy/android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
-    "revision": "eos"
+    "revision": "lollipop"
   },
   {
     "remote": "github",
